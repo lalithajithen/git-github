@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This  is my first branch and modified in first branch not in the master in merging concept.
+=======
+
+This is my first branch and modified in merging concept.
+>>>>>>> 2ad74c2 (modified first branch)
